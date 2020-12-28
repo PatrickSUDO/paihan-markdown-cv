@@ -69,7 +69,7 @@ Hsinchu, Taiwan
 
 ### **My Calendar** | Cloud Computing `Dec. 2020 - Dec. 2020`
 
-- Developed the online to-do list calendar with **CRUD** of events and a simple search engine using **Java** **Spring boot** for request handling.
+- Developed the online to-do list calendar with **CRUD** of events and a simple search engine using **Java** **Spring Boot** for request handling.
 - Implemented **AWS** DynamoDB **NoSQL** database, **Thymeleaf** as representation layer, and **JQuery** to transfer the data between front and back.
 - Constructed the feature of sharing the events by consolidating the to-do list as excel and send by email. Applied **AWS** SES service to achieve automatic email sending with email validation.
 
