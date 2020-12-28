@@ -88,7 +88,7 @@ Hsinchu, Taiwan
 - Deployed web application via the **Docker** container on the **Heroku** PaaS.
 - Constructed the database of historical weather data and bus arriving time at the different bus stations with the relational model using **MySQL**.
 
-### **Dublin Bus Journey Time Prediction Web App** | Software Engineer  `Feb. 2020 – Apr. 2020`
+### **Dublin Bus Journey Time Prediction Web App** | Software Engineering  `Feb. 2020 – Apr. 2020`
 
 - Developed **RESTful** WebApp with **Python** **Flask** framework handing the request from uses on Google map. Predict the hourly availability of bike stations by Light Gradient Boosting **Machine Learning** Model using weather pattern as features.
 - Visualized the average usage and historical trend on Google Map by Javascript library **Chart.js**.
