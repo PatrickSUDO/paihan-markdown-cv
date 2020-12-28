@@ -102,9 +102,9 @@ Hsinchu, Taiwan
 
 ## SKILLS
 
-Programming Language: Java, Python, Bash, JavaScript, SQL 
+Programming Languages: Java, Python, Bash, JavaScript, SQL 
 <br>
-Tool & Framework: Spring Boot, Servlet, Django, Flask, Scikit-learn, PyTorch, Keras, AWS, Docker, CI/CD
+Tools & Frameworks: Spring Boot, Servlet, Django, Flask, Scikit-learn, PyTorch, Keras, AWS, Docker, CI/CD
 
 ## EDUCATION
 
