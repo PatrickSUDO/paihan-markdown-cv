@@ -33,44 +33,55 @@ Supported arguments:
 ## EXPERIENCE
 
 ### **University College Dublin**  `Sep. 2020 - Dec. 2020`
+
 ```
 Dublin, Ireland
 ```
-**Demonstrator**
+
+**_Demonstrator_**
 
 - Provided practical guidance to computer science students in the Formal Foundations module, facilitating their learning performance.
 
 ### **Nova Measuring Instruments**  `Aug. 2017 - Feb. 2019`
+
 ```
 Hsinchu, Taiwan
 ```
-**Application Specialist**
+
+**_Application Specialist_**
 
 - Implemented **machine learning** models that improved the reliability of Taiwan Semiconductor Manufacturing Company 's 7nm wafer production by predicting film thickness. Brought the models to high volume production by adding validation and quality monitoring.
 - Improved Optical Critical Dimension (OCD) models for 7nm and 5nm technological nodes to Taiwan Semiconductor Manufacturing Company, including CMP and Etch process applications.
 - Integrated and applied knowledge of material science, physics to solve daily production issues and provide root cause analysis reports in a timely manner.
 
 ### **Polytronics**  `Oct. 2015 - Nov. 2016`
+
 ```
 Hsinchu, Taiwan
 ```
-**Research Development Engineer**
+
+**_Research Development Engineer_**
+
 - Simplified supporting 12 different over-current protection products by standardizing on one formula for the thermal-resistive material.
 - Implemented Failure Mode and Effect Analysis with process engineering team for hundreds of samples.
 
 ## PROJECTS
-### **My Calender** | Cloud Computing `Dec. 2020 - Dec. 2020`
+
+### **My Calendar** | Cloud Computing `Dec. 2020 - Dec. 2020`
+
 - Developed the online to-do list calendar with **CRUD** of events and a simple search engine using **Java** **Spring boot** for request handling.
 - Implemented **AWS** DynamoDB **NoSQL** database, **Thymeleaf** as representation layer, and **JQuery** to transfer the data between front and back.
 - Constructed the feature of sharing the events by consolidating the to-do list as excel and send by email. Applied **AWS** SES service to achieve automatic email sending with email validation.
 
 ### **My Flea Market** | Side Project `Sep. 2020 – Oct. 2020`
+
 - Developed an e-commerce shopping cart with **CRUD** functionalities using **Java** **Servlet**, MySQL with Layered Architecture Design Pattern to build.
 - Implement the data access object(DAO) using **JDBC** technology to create, read, update, and delete the shopping cart's goods information.
 - Implement the representation layer with **JSP** technology.
 - Constructed the service layer using **Java** **Servlet**.
 
 ### **Dublin Bus Journey Time Prediction Web App** | Graduate Project  `Jun. 2020 – Aug. 2020`
+
 - Developed a **RESTful** Web App with **Python** **Django** framework for request handling. Applied Google Map API to represent the bus stop location and the journey time between sites.
 - Implemented Tree-Based **Machine Learning** Model to predict the bus traveling with the date time and the weather pattern.
 - Performed **exploratory data analysis(EDA)** on the historical bus timetable with the weather data to estimate the bus journey time at different bus routes and date times.
@@ -78,43 +89,52 @@ Hsinchu, Taiwan
 - Constructed the database of historical weather data and bus arriving time at the different bus stations with the relational model using **MySQL**.
 
 ### **Dublin Bus Journey Time Prediction Web App** | Software Engineer  `Feb. 2020 – Apr. 2020`
+
 - Developed **RESTful** WebApp with **Python** **Flask** framework handing the request from uses on Google map. Predict the hourly availability of bike stations by Light Gradient Boosting **Machine Learning** Model using weather pattern as features.
 - Visualized the average usage and historical trend on Google Map by Javascript library **Chart.js**.
 - Managed the project with the **Scrum** team under the scheme of **agile development** methodology using **Jira** as the management tool.
 
 ### **Face Generation Machine** | Udacity  `Feb. 2020 – Apr. 2020`
+
 - Implemented **Deep Convolution Generative Adversarial Network(DCGAN)** with PyTorch to generate the unknown human face.
 - Optimized the model with soft-labeling, leaky-rule activation function, and exponential learning decay techniques
 
 
 ## SKILLS
+
 Programming Language: Java, Python, Bash, JavaScript, SQL 
 <br>
 Tool & Framework: Spring Boot, Servlet, Django, Flask, Scikit-learn, PyTorch, Keras, AWS, Docker, CI/CD
 
 ## EDUCATION
 
-### **University College Dublin** `2019.9 - 2020.12`
+### **University College Dublin** `Sep. 2019 - Dec. 2020`
+
 ```
 Dublin, Ireland
 ```
-**M.S. Computer Science**
+
+**_M.S. Computer Science_**
 
 Coursework: Data Structure & Algorithm, Software Engineering, Advanced Data Structures in Java, Relational Database & Information System, Operating System, Web Development, Cloud computing, Machine learning, Networks & Internet Systems
 
-### **National Taiwan University**   `2013.9 - 2015.9`
+### **National Taiwan University**   `Sep. 2013 - Sep. 2015`
+
 ```
 Taipei, Taiwan
 ```
-**M.S. Materials Science and Engineering**
+
+**_M.S. Materials Science and Engineering_**
 
 Thesis: Preparation and Properties of polyaniline/GQD nanocomposites & their applications on gel type supercapacitor
 
-### **National Taiwan University** -  `2009.9 - 2013.6`
+### **National Taiwan University**   `Sep. 2009 - Jun. 2013`
+
 ```
 Taipei, Taiwan
 ```
-**B.S. Chemical Engineering**
+
+**_B.S. Chemical Engineering_**
 
 Coursework: Computer programming(Fortran), Engineering mathematics
 

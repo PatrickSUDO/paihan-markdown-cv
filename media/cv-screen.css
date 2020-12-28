@@ -206,15 +206,15 @@ code {
 }
 
 li:before {
-  content: "-";
+  content: "•";
   position: relative;
   left: -0.5em;
 }
 
 li {
   /*second line indent*/
-  padding-left: 2.25em;
-  text-indent: -1.25em;
+  padding-left: 1em;
+  text-indent: -0.5em;
   /*color: #777;*/
 }
 
@@ -239,4 +239,8 @@ a {
 hr {
   visibility: hidden;
   height: 0mm;
+}
+
+a:hover {
+	color: 	#9F35FF
 }
