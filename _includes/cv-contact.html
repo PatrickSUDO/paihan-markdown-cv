@@ -15,4 +15,22 @@
     {{ page.phone }}
     {% endif %}
 
+    {% if page.linkedin %}
+    <i class="fi-social-linkedin" style="margin-left:1em"></i>
+    <a href="{{ page.linkedin.url }}" style="margin-left:0.5em">{{ page.linkedin.text }}</a>
+    {% endif %}
+    </div>>
+    
+
+<div id="contact-info">
+    {% if page.github %}
+    <i class="fi-social-github" style="margin-left:1em"></i>
+    <a href="{{ page.github.url }}" style="margin-left:0.5em">{{ page.github.text }}</a>
+    {% endif %}
+
+    {% if page.address %}
+    <i class="fi-address-book" style="margin-left:1em"></i>
+    <a style="margin-left:0.5em">{{ page.address.text }}</a>
+    {% endif %}
+
 </div>
