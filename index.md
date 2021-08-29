@@ -14,7 +14,7 @@ linkedin:
   url: https://www.linkedin.com/in/ph-su/
   text: www.linkedin.com/in/ph-su/
 address:
-  text: 19 Old Rectory Park, Taney Rd., Dublin 14, Ireland
+  text: Rotterdam, Netherlands
 
 ---
 
@@ -31,6 +31,17 @@ Supported arguments:
 {% include cv-contact.html %}
 
 ## EXPERIENCE
+
+### **Lunatech**  `May 2021 - Now`
+
+```
+Rotterdam, The Netherlands
+```
+
+**_Junior Software Engineer_**
+
+- Developed bot helping employee tracking their working hour with Spring Boot.
+- Enhanced the features and user experience of the Golden Algo System, which produces ground truth labels for image and video data in the field of autonomous driving. Associated technology stack: Scala, Scala.js, Akka-http, Elasticsearch, Elastic4s
 
 ### **University College Dublin**  `Sep 2020 - Dec 2020`
 
@@ -54,16 +65,6 @@ Hsinchu, Taiwan
 - Improved Optical Critical Dimension (OCD) models for 7nm and 5nm technological nodes to Taiwan Semiconductor Manufacturing Company, including CMP and Etch process applications.
 - Integrated and applied knowledge of material science, physics to solve daily production issues and provide root cause analysis reports in a timely manner.
 
-### **Polytronics**  `Oct 2015 - Nov 2016`
-
-```
-Hsinchu, Taiwan
-```
-
-**_Research Development Engineer_**
-
-- Simplified supporting 12 different over-current protection products by standardizing on one formula for the thermal-resistive material.
-- Implemented Failure Mode and Effect Analysis with process engineering team for hundreds of samples.
 
 ## PROJECTS
 
@@ -102,9 +103,9 @@ Hsinchu, Taiwan
 
 ## SKILLS
 
-Programming Languages: Java, Python, Bash, JavaScript, SQL 
+Programming Languages: Java, Python, Scala, Bash, JavaScript, SQL 
 <br>
-Tools & Frameworks: Spring Boot, Spring MVC, My Batis, Django, Flask, Scikit-learn, PyTorch, Keras, AWS, Docker, CI/CD, Neo4j
+Tools & Frameworks: Spring Boot, Akka-http, My Batis, Django, Flask, Scikit-learn, PyTorch, Keras, AWS, Docker, CI/CD, Elasticsearch
 
 ## EDUCATION
 
@@ -143,4 +144,4 @@ Coursework: Computer programming(Fortran), Engineering mathematics
 
 <!-- ### Footer
 
-Last updated: Dec 2020 -->
+Last updated: May 2021 -->
