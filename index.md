@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: PaiHan Su
+title: Pai-Han Su
 email:
   url: mailto:patricksuph@gmail.com
   text: patricksuph@gmail.com
@@ -40,8 +40,9 @@ Rotterdam, The Netherlands
 
 **_Junior Software Engineer_**
 
-- Developed bot helping employee tracking their working hour with Spring Boot.
-- Enhanced the features and user experience of the Golden Algo System, which produces ground truth labels for image and video data in the field of autonomous driving. Associated technology stack: Scala, Scala.js, Akka-http, Elasticsearch, Elastic4s
+- Enhanced the features and user experience of the Autonomous Driving Labeling System, which streams the video data and produces ground truth labels for further manual editing and validation. Associated technology stack: **Scala**, **Scala.js**, **Akka**, **Elasticsearch**, **Elastic4s**
+- Migrated the infrastructure to **Azure Kubernetes Service**, implementing automation deployment pipelines, network policies, private endpoints, and monitoring metrics.
+- Initiated a data ingest service to allocate machine learning jobs in the pipeline with **Argo Workflow**.
 
 ### **University College Dublin**  `Sep 2020 - Dec 2020`
 
@@ -66,7 +67,7 @@ Hsinchu, Taiwan
 - Integrated and applied knowledge of material science, physics to solve daily production issues and provide root cause analysis reports in a timely manner.
 
 
-## PROJECTS
+## SIDE PROJECTS
 
 ### **My Calendar** | Cloud Computing `Dec 2020 - Dec 2020`
 
@@ -103,9 +104,9 @@ Hsinchu, Taiwan
 
 ## SKILLS
 
-Programming Languages: Java, Python, Scala, Bash, JavaScript, SQL 
+Programming Languages: Java, Python, Scala, Terraform, Bash, JavaScript, SQL, 
 <br>
-Tools & Frameworks: Spring Boot, Akka-http, My Batis, Django, Flask, Scikit-learn, PyTorch, Keras, AWS, Docker, CI/CD, Elasticsearch
+Tools & Frameworks: Spring Boot, Akka, Kubernetes, Elasticsearch, Django, Flask, PyTorch, AWS, Azure, Docker, CI/CD
 
 ## EDUCATION
 
