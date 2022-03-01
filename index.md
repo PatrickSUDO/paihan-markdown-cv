@@ -18,7 +18,7 @@ address:
 
 ---
 
-# PaiHan **Su**
+# Pai-Han **Su**
 
 <!--
 include contact information from the front matter
