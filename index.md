@@ -32,7 +32,20 @@ Supported arguments:
 
 ## EXPERIENCE
 
-### **Lunatech**  `May 2021 - Now`
+### **JW Player**  `May 2022 - Now`
+
+```
+Eindhoven, The Netherlands
+```
+
+**_Software Engineer_**
+
+- Boosted ad revenue and minimized ad blocking by developing a Server Side Ad Insertion(**SSAI**) solution that modifies HLS and DASH manifests using **Python** and **Golang**.
+- Enhanced user experience by implementing low-latency **live streaming** and live clipping features, leveraging Agile methodologies.
+- Reduced costs and improved WER performance by transitioning from **Google Speech to Text APIs** to **OpenAI Whisper** during a hack week project.
+- Increased client satisfaction and reduced service downtime by collaborating with customer support, addressing issues, and participating in on-call duties.
+
+### **Lunatech**  `May 2021 - May 2022`
 
 ```
 Rotterdam, The Netherlands
@@ -53,18 +66,6 @@ Dublin, Ireland
 **_Demonstrator_**
 
 - Provided practical guidance to computer science students in the Formal Foundations module, facilitating their learning performance.
-
-### **Nova Measuring Instruments**  `Aug 2017 - Feb 2019`
-
-```
-Hsinchu, Taiwan
-```
-
-**_Application Specialist_**
-
-- Implemented **machine learning** models that improved the reliability of Taiwan Semiconductor Manufacturing Company's 7nm wafer production by predicting film thickness. Brought the models to high volume production by adding validation and quality monitoring.
-- Improved Optical Critical Dimension (OCD) models for 7nm and 5nm technological nodes to Taiwan Semiconductor Manufacturing Company, including CMP and Etch process applications.
-- Integrated and applied knowledge of material science, physics to solve daily production issues and provide root cause analysis reports in a timely manner.
 
 
 ## SIDE PROJECTS
