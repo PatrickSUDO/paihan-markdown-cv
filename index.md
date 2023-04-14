@@ -40,10 +40,13 @@ Eindhoven, The Netherlands
 
 **_Software Engineer_**
 
-- Boosted ad revenue and minimized ad blocking by developing a Server Side Ad Insertion(**SSAI**) solution that modifies HLS and DASH manifests using **Python** and **Golang**.
-- Enhanced user experience by implementing low-latency **live streaming** and live clipping features, leveraging Agile methodologies.
-- Reduced costs and improved WER performance by transitioning from **Google Speech to Text APIs** to **OpenAI Whisper** during a hack week project.
-- Increased client satisfaction and reduced service downtime by collaborating with customer support, addressing issues, and participating in on-call duties.
+JW Player, Software Engineer `May 2022 - Now`
+- Developed an **SSAI** solution using **Python** and **Golang** to modify **HLS** and **DASH** manifests, increasing ad revenue and reducing ad blocking.
+- Implemented low-latency **live streaming** and live clipping features following Agile methodologies, enhancing user experience.
+- Transitioned to **OpenAI Whisper** during a prize-winning hack week project, reducing costs and improving WER performance.
+- Collaborated with customer support to address issues and reduce service downtime, participating on-call duties.
+- Streamlined microservice maintenance using a **Terraform** and **Datadog** dashboard, and established a **CI/CD** deployment pipeline.
+
 
 ### **Lunatech**  `May 2021 - May 2022`
 
@@ -53,9 +56,9 @@ Rotterdam, The Netherlands
 
 **_Junior Software Engineer_**
 
-- Enhanced the features and user experience of the Autonomous Driving Labeling System, which streams the video data and produces ground truth labels for further manual editing and validation. Associated technology stack: **Scala**, **Scala.js**, **Akka**, **Elasticsearch**, **Elastic4s**
-- Migrated the infrastructure to **Azure Kubernetes Service**, implementing automation deployment pipelines, network policies, private endpoints, and monitoring metrics.
-- Initiated a data ingest service to allocate machine learning jobs in the pipeline with **Argo Workflow**.
+- Enhanced features and user experience of the Autonomous Driving Labeling System using **Scala**, **Scala.js**, **Akka**, **Elasticsearch**, and **Elastic4s** to stream video data and produce ground truth labels.
+- Migrated infrastructure to **Azure Kubernetes Service**, implementing automation deployment pipelines, network policies, private endpoints, and monitoring metrics.
+- Initiated a data ingest service with **Argo Workflow** to allocate machine learning jobs in the pipeline.
 
 ### **University College Dublin**  `Sep 2020 - Dec 2020`
 
@@ -65,37 +68,36 @@ Dublin, Ireland
 
 **_Demonstrator_**
 
-- Provided practical guidance to computer science students in the Formal Foundations module, facilitating their learning performance.
+- Facilitated computer science students' learning performance in the Formal Foundations module by providing practical guidance.
 
 
 ## SIDE PROJECTS
 
 ### **My Calendar** | Cloud Computing `Dec 2020 - Dec 2020`
 
-- Developed the online to-do list calendar with **CRUD** of events and a simple search engine using **Java** **Spring Boot** for request handling.
-- Implemented **AWS** DynamoDB **NoSQL** database, **Thymeleaf** as representation layer, and **JQuery** to transfer the data between front and back.
-- Constructed the feature of sharing the events by consolidating the to-do list as excel and send by email. Applied **AWS** SES service to achieve automatic email sending with email validation.
+- Developed an online to-do list calendar using **Java Spring Boot** with **CRUD** features and a simple search engine.
+- Utilized **AWS DynamoDB**, **Thymeleaf**, and **JQuery** for database, presentation layer, and data transfer.
+- Enabled event sharing by consolidating to-do lists as Excel files and sending via email with **AWS SES** service and email validation.
 
 ### **My Flea Market** | Side Project `Sep 2020 – Oct 2020`
 
-- Developed an e-commerce shopping cart with **CRUD** functionalities using **Java** **Servlet**, MySQL with Layered Architecture Design Pattern to build.
-- Implement the data access object(DAO) using **JDBC** technology to create, read, update, and delete the shopping cart's goods information.
-- Implement the representation layer with **JSP** technology.
-- Constructed the service layer using **Java** **Servlet**.
+- Built an e-commerce shopping cart with **CRUD** functionalities using **Java Servlet**, MySQL, and Layered Architecture Design Pattern.
+- Implemented data access objects (DAO) with **JDBC** and the presentation layer with **JSP**.
+- Developed the service layer using **Java Servlet**.
 
 ### **Dublin Bus Journey Time Prediction Web App** | Graduate Project  `Jun 2020 – Aug 2020`
 
-- Developed a **RESTful** Web App with **Python** **Django** framework for request handling. Applied Google Map API to represent the bus stop location and the journey time between sites.
-- Implemented Tree-Based **Machine Learning** Model to predict the bus traveling with the date time and the weather pattern.
-- Performed **exploratory data analysis(EDA)** on the historical bus timetable with the weather data to estimate the bus journey time at different bus routes and date times.
-- Deployed web application via the **Docker** container on the **Heroku** PaaS.
-- Constructed the database of historical weather data and bus arriving time at the different bus stations with the relational model using **MySQL**.
+- Created a **RESTful** Web App with **Python Django** to handle requests and display bus stop locations and journey times using Google Map API.
+- Developed a Tree-Based **Machine Learning** Model to predict bus travel times based on date, time, and weather patterns.
+- Performed **EDA** on historical bus timetables and weather data to estimate journey times across different routes and times.
+- Deployed the web app on **Heroku** PaaS using **Docker** containers and built a **MySQL** database for historical weather and bus arrival data.
 
 ### **Dublin Bus Journey Time Prediction Web App** | Software Engineering  `Feb 2020 – Apr 2020`
 
-- Developed **RESTful** WebApp with **Python** **Flask** framework handing the request from uses on Google map. Predict the hourly availability of bike stations by Light Gradient Boosting **Machine Learning** Model using weather pattern as features.
-- Visualized the average usage and historical trend on Google Map by Javascript library **Chart.js**.
-- Managed the project with the **Scrum** team under the scheme of **agile development** methodology using **Jira** as the management tool.
+- Developed a **RESTful** Web App with **Python Flask** to handle user requests on Google Map and predict hourly bike station availability using Light Gradient - Boosting **Machine Learning** Model and weather patterns.
+- Visualized average usage and historical trends on Google Map with Chart.js.
+- Managed the project with a **Scrum** team using **agile development** methodology and **Jira** as a management tool.
+
 
 ### **Face Generation Machine** | Udacity  `Feb 2020 – Apr 2020`
 
@@ -105,7 +107,7 @@ Dublin, Ireland
 
 ## SKILLS
 
-Programming Languages: Java, Python, Scala, Terraform, Bash, JavaScript, SQL, 
+Programming Languages: Python, Java, Golang, Scala, Terraform, Bash, JavaScript, SQL
 <br>
 Tools & Frameworks: Spring Boot, Akka, Kubernetes, Elasticsearch, Django, Flask, PyTorch, AWS, Azure, Docker, CI/CD
 
@@ -146,4 +148,4 @@ Coursework: Computer programming(Fortran), Engineering mathematics
 
 <!-- ### Footer
 
-Last updated: May 2021 -->
+Last updated: April 2023 -->
