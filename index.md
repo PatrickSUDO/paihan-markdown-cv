@@ -70,6 +70,18 @@ Dublin, Ireland
 
 - Facilitated computer science students' learning performance in the Formal Foundations module by providing practical guidance.
 
+### **Nova Measuring Instruments**  `Aug 2017 - Feb 2019`
+
+```
+Hsinchu, Taiwan
+```
+
+**_Application Specialist_**
+
+- Implemented **machine learning** models that improved the reliability of Taiwan Semiconductor Manufacturing Company's 7nm wafer production by predicting film thickness. Brought the models to high volume production by adding validation and quality monitoring.
+- Improved Optical Critical Dimension (OCD) models for 7nm and 5nm technological nodes to Taiwan Semiconductor Manufacturing Company, including CMP and Etch process applications.
+- Integrated and applied knowledge of material science, physics to solve daily production issues and provide root cause analysis reports in a timely manner.
+
 
 ## SIDE PROJECTS
 
