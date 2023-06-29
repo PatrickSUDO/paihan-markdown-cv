@@ -30,6 +30,21 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
+## PERSONAL SUMMARY
+
+- Experienced software engineer with a background in developing and optimizing high-performance systems in sectors like media services and autonomous driving image label management system.
+- Quick learner and highly curious, with a demonstrated proficiency in technologies such as Python, Java, Golang, Scala.
+- Excellent problem-solving skills showcased in developing solutions for complex issues such as low-latency live streaming, and effectively addressing customer support issues.
+- Capable of working independently and autonomously, managing projects from conception to deployment while ensuring alignment with company objectives.
+- Strong analytical skills exhibited in roles requiring in-depth data analysis, machine learning model implementation, and performance optimization.
+- Excellent team player with experience working in Agile and Scrum frameworks, with an emphasis on transparency and effective communication.
+
+## SKILLS
+
+Programming Languages: Python, Java, Golang, Scala, Terraform, Bash, JavaScript, SQL
+<br>
+Tools & Frameworks: Spring Boot, Kubernetes, Elasticsearch, Kibana, Django, Flask, Akka, AWS, Azure, Docker, CI/CD, Datadog, Prometheus, Grafana
+
 ## EXPERIENCE
 
 ### **JW Player**  `May 2022 - Now`
@@ -41,12 +56,12 @@ Eindhoven, The Netherlands
 **_Software Engineer_**
 
 JW Player, Software Engineer `May 2022 - Now`
-- Developed an **SSAI** solution using **Python** and **Golang** to modify **HLS** and **DASH** manifests, increasing ad revenue and reducing ad blocking.
-- Implemented low-latency **live streaming** and live clipping features following Agile methodologies, enhancing user experience.
-- Transitioned to **OpenAI Whisper** during a prize-winning hack week project, reducing costs and improving WER performance.
-- Collaborated with customer support to address issues and reduce service downtime, participating on-call duties.
-- Streamlined microservice maintenance using a **Terraform** and **Datadog** dashboard, and established a **CI/CD** deployment pipeline.
 
+- Developed a **Server-Side Ad Insertion** (SSAI) solution with **Python** and **Golang** to seamlessly stitch ads into **HLS** and **DASH** streams. Utilized AWS MediaTailor as a stitcher between Player and **CDN/Origin**, integrating with the Ad Decision Server to manipulate playlists and replace video and audio segments with ads. This increased ad revenue for content-creators and significantly reduced ad blocking.
+- Orchestrated the implementation of a low-latency live streaming solution using **Agile** methodologies, delivering almost instantaneous live streams upon initiation. Enhanced user experience by integrating Mux's live streaming services.
+- Led a team transition to **OpenAI Whisper** as part of a prize-winning hack week project, resulting in significant cost reduction and improved Word Error Rate (WER) performance.
+- Set up robust system observability and monitoring using the **Datadog** dashboard and alerting system. Leveraged **Terraform** and **Python** to streamline microservice maintenance, automate infrastructure, and establish a **CI/CD** pipeline.
+- Focused on customer-centric solutions by working closely with the customer support team to resolve issues and increase service uptime. Actively participated in on-call duties to ensure high availability and performance.
 
 ### **Lunatech**  `May 2021 - May 2022`
 
@@ -82,46 +97,32 @@ Hsinchu, Taiwan
 - Improved Optical Critical Dimension (OCD) models for 7nm and 5nm technological nodes to Taiwan Semiconductor Manufacturing Company, including CMP and Etch process applications.
 - Integrated and applied knowledge of material science, physics to solve daily production issues and provide root cause analysis reports in a timely manner.
 
-
 ## SIDE PROJECTS
 
-### **My Calendar** | Cloud Computing `Dec 2020 - Dec 2020`
+### **British Postal Code Distance Calculator** `Mar 2023 - Apr 2023`
 
-- Developed an online to-do list calendar using **Java Spring Boot** with **CRUD** features and a simple search engine.
-- Utilized **AWS DynamoDB**, **Thymeleaf**, and **JQuery** for database, presentation layer, and data transfer.
-- Enabled event sharing by consolidating to-do lists as Excel files and sending via email with **AWS SES** service and email validation.
+- Engineered a ****RESTful** service using **Spring Boot** and **PostgreSQL** for geographic calculations between UK postal codes, reinforcing knowledge of **Java**, **Spring Data JPA**, **Spring Security**.
+- Implemented unit testing (**Mockito**, **JUnit**) for application reliability, and allowed for postal code data management with persistent mapping and updates.
 
-### **My Flea Market** | Side Project `Sep 2020 – Oct 2020`
+### **My Calendar: Online To-Do List** `Dec 2020 - Dec 2020`
 
-- Built an e-commerce shopping cart with **CRUD** functionalities using **Java Servlet**, MySQL, and Layered Architecture Design Pattern.
-- Implemented data access objects (DAO) with **JDBC** and the presentation layer with **JSP**.
-- Developed the service layer using **Java Servlet**.
+- Built a cloud-based to-do list calendar application using **Java** **Spring Boot**, **AWS** **DynamoDB**, **Thymeleaf**, and **JQuery**, exhibiting capabilities in full-stack development and cloud technologies.
+- Integrated **AWS** **SES** to convert to-do lists into shareable Excel files sent via validated email, enhancing the application's collaboration potential.
 
-### **Dublin Bus Journey Time Prediction Web App** | Graduate Project  `Jun 2020 – Aug 2020`
+### **My Flea Market: E-commerce Application** `Sep 2020 – Oct 2020`
 
-- Created a **RESTful** Web App with **Python Django** to handle requests and display bus stop locations and journey times using Google Map API.
-- Developed a Tree-Based **Machine Learning** Model to predict bus travel times based on date, time, and weather patterns.
-- Performed **EDA** on historical bus timetables and weather data to estimate journey times across different routes and times.
-- Deployed the web app on **Heroku** PaaS using **Docker** containers and built a **MySQL** database for historical weather and bus arrival data.
+- Built a full-stack e-commerce application using **Java** **Servlet**, **MySQL**, and Layered Architecture Design Pattern, proving proficiency in web development and design patterns.
+- Utilized **JDBC** for efficient database interaction and created a dynamic UI using **JSP**.
 
-### **Dublin Bus Journey Time Prediction Web App** | Software Engineering  `Feb 2020 – Apr 2020`
+### **Dublin Bus Journey Time Predictor** `Jun 2020 – Aug 2020`
 
-- Developed a **RESTful** Web App with **Python Flask** to handle user requests on Google Map and predict hourly bike station availability using Light Gradient - Boosting **Machine Learning** Model and weather patterns.
-- Visualized average usage and historical trends on Google Map with Chart.js.
-- Managed the project with a **Scrum** team using **agile development** methodology and **Jira** as a management tool.
+- Launched a **RESTful** web application with **Python** **Django** and Machine Learning, predicting bus journey times based on a variety of factors, showcasing a fusion of data analysis and web development.
+- Applied **EDA** for data analysis and deployed the application on Heroku using Docker containers, highlighting skills in handling complex data sets and cloud deployment.
 
+### **Bike Station Availability Predictor** `Feb 2020 – Apr 2020`
 
-### **Face Generation Machine** | Udacity  `Feb 2020 – Apr 2020`
-
-- Implemented **Deep Convolution Generative Adversarial Network(DCGAN)** with PyTorch to generate the unknown human face.
-- Optimized the model with soft-labeling, leaky-rule activation function, and exponential learning decay techniques
-
-
-## SKILLS
-
-Programming Languages: Python, Java, Golang, Scala, Terraform, Bash, JavaScript, SQL
-<br>
-Tools & Frameworks: Spring Boot, Akka, Kubernetes, Elasticsearch, Django, Flask, PyTorch, AWS, Azure, Docker, CI/CD
+- Spearheaded the development of a **RESTful** Web App using **Python** **Flask**, integrating machine learning to predict hourly bike station availability, underscoring an intersection of web development and AI.
+- Coordinated the project using **Agile** methodologies within a **Scrum** team and managed tasks with **Jira**, reflecting an understanding of effective team dynamics and project management.
 
 ## EDUCATION
 
@@ -154,9 +155,6 @@ Taipei, Taiwan
 **_B.S. Chemical Engineering_**
 
 Coursework: Computer programming(Fortran), Engineering mathematics
-
-
-
 
 <!-- ### Footer
 
