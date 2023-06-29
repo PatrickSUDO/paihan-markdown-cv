@@ -43,7 +43,7 @@ Supported arguments:
 
 Programming Languages: Python, Java, Golang, Scala, Terraform, Bash, JavaScript, SQL
 <br>
-Tools & Frameworks: Spring Boot, Kubernetes, Elasticsearch, Kibana, Django, Flask, Akka, AWS, Azure, Docker, CI/CD, Datadog, Prometheus, Grafana
+Tools & Frameworks: Spring Boot, Kubernetes, Elasticsearch, Kibana, Kafka, RabbitMQ, Redis, Django, Flask, Akka, AWS, Azure, Docker, CI/CD, Datadog, Prometheus
 
 ## EXPERIENCE
 
@@ -55,12 +55,10 @@ Eindhoven, The Netherlands
 
 **_Software Engineer_**
 
-JW Player, Software Engineer `May 2022 - Now`
-
-- Developed a **Server-Side Ad Insertion** (SSAI) solution with **Python** and **Golang** to seamlessly stitch ads into **HLS** and **DASH** streams. Utilized AWS MediaTailor as a stitcher between Player and **CDN/Origin**, integrating with the Ad Decision Server to manipulate playlists and replace video and audio segments with ads. This increased ad revenue for content-creators and significantly reduced ad blocking.
+- Developed a **Server-Side Ad Insertion** (SSAI) solution with **Python** and **Golang** to seamlessly stitch ads into **HLS** and **DASH** streams. Utilized AWS MediaTailor as a stitcher between Player and **CDN/Origin**, integrating with the Ad Decision Server to manipulate playlists and replace video and audio segments with ads. This significantly reduced ad blocking and increased ad revenue for content-creators.
 - Orchestrated the implementation of a low-latency live streaming solution using **Agile** methodologies, delivering almost instantaneous live streams upon initiation. Enhanced user experience by integrating Mux's live streaming services.
-- Led a team transition to **OpenAI Whisper** as part of a prize-winning hack week project, resulting in significant cost reduction and improved Word Error Rate (WER) performance.
-- Set up robust system observability and monitoring using the **Datadog** dashboard and alerting system. Leveraged **Terraform** and **Python** to streamline microservice maintenance, automate infrastructure, and establish a **CI/CD** pipeline.
+- Led a transition to **OpenAI Whisper** as part of a prize-winning hack week project, resulting in significant cost reduction and improved Word Error Rate (WER) performance.
+- Set up robust system observability and monitoring using the **Datadog** dashboard and alerting system. Leveraged **Terraform** and **Python** to streamline microservice maintenance, automate infrastructure, and establish a **CI/CD** pipeline with **Buildkite**.
 - Focused on customer-centric solutions by working closely with the customer support team to resolve issues and increase service uptime. Actively participated in on-call duties to ensure high availability and performance.
 
 ### **Lunatech**  `May 2021 - May 2022`
@@ -99,29 +97,29 @@ Hsinchu, Taiwan
 
 ## SIDE PROJECTS
 
-### **British Postal Code Distance Calculator** `Mar 2023 - Apr 2023`
+### **British Postal Code Distance Calculator** | Personal Project `Mar 2023 - Apr 2023`
 
-- Engineered a ****RESTful** service using **Spring Boot** and **PostgreSQL** for geographic calculations between UK postal codes, reinforcing knowledge of **Java**, **Spring Data JPA**, **Spring Security**.
+- Engineered a **RESTful** service using **Spring Boot** and **PostgreSQL** for geographic calculations between UK postal codes, reinforcing knowledge of **Java**, **Spring Data JPA**, **Spring Security**.
 - Implemented unit testing (**Mockito**, **JUnit**) for application reliability, and allowed for postal code data management with persistent mapping and updates.
 
-### **My Calendar: Online To-Do List** `Dec 2020 - Dec 2020`
+### **My Calendar: Online To-Do List** | Personal Project `Dec 2020 - Dec 2020`
 
 - Built a cloud-based to-do list calendar application using **Java** **Spring Boot**, **AWS** **DynamoDB**, **Thymeleaf**, and **JQuery**, exhibiting capabilities in full-stack development and cloud technologies.
 - Integrated **AWS** **SES** to convert to-do lists into shareable Excel files sent via validated email, enhancing the application's collaboration potential.
 
-### **My Flea Market: E-commerce Application** `Sep 2020 – Oct 2020`
+### **My Flea Market: E-commerce Application** | Personal Project `Sep 2020 – Oct 2020`
 
 - Built a full-stack e-commerce application using **Java** **Servlet**, **MySQL**, and Layered Architecture Design Pattern, proving proficiency in web development and design patterns.
 - Utilized **JDBC** for efficient database interaction and created a dynamic UI using **JSP**.
 
-### **Dublin Bus Journey Time Predictor** `Jun 2020 – Aug 2020`
+### **Dublin Bus Journey Time Predictor**  | Graduate Project `Jun 2020 – Aug 2020`
 
 - Launched a **RESTful** web application with **Python** **Django** and Machine Learning, predicting bus journey times based on a variety of factors, showcasing a fusion of data analysis and web development.
-- Applied **EDA** for data analysis and deployed the application on Heroku using Docker containers, highlighting skills in handling complex data sets and cloud deployment.
+- Applied **EDA** for data analysis and deployed the application on **Heroku** using **Docker** containers, highlighting skills in handling complex data sets and cloud deployment.
 
-### **Bike Station Availability Predictor** `Feb 2020 – Apr 2020`
+### **Bike Station Availability Predictor** | Team Project `Feb 2020 – Apr 2020`
 
-- Spearheaded the development of a **RESTful** Web App using **Python** **Flask**, integrating machine learning to predict hourly bike station availability, underscoring an intersection of web development and AI.
+- Spearheaded the development of a **RESTful** Web App using **Python** **Flask**, integrating machine learning to predict hourly bike station availability, underscoring an intersection of web development and ML.
 - Coordinated the project using **Agile** methodologies within a **Scrum** team and managed tasks with **Jira**, reflecting an understanding of effective team dynamics and project management.
 
 ## EDUCATION
