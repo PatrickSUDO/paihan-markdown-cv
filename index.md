@@ -58,7 +58,7 @@ Eindhoven, The Netherlands
 - Developed a **Server-Side Ad Insertion** (SSAI) solution with **Python** and **Golang** to seamlessly stitch ads into **HLS** and **DASH** streams. Utilized AWS MediaTailor as a stitcher between Player and **CDN/Origin**, integrating with the Ad Decision Server to manipulate playlists and replace video and audio segments with ads. This significantly reduced ad blocking and increased ad revenue for content-creators.
 - Orchestrated a data ingest service using Argo Workflow, streamlining image pre-processing and efficient allocation of machine learning tasks within the pipeline.
 - Led a transition to **OpenAI Whisper** as part of a prize-winning hack week project, resulting in significant cost reduction and improved Word Error Rate (WER) performance.
-- Set up robust system observability and monitoring using the **Datadog** dashboard and alerting system. Leveraged **Terraform** and **Python** to streamline microservice maintenance, automate infrastructure, and establish a **CI/CD** pipeline with **Buildkite**.
+- Built robust system observability and monitoring using the **Datadog** dashboard and alerting system. Leveraged **Terraform** and **Python** to streamline microservice maintenance, automate infrastructure, and establish a **CI/CD** pipeline with **Buildkite**.
 - Focused on customer-centric solutions by working closely with the customer support team to resolve issues and increase service uptime. Actively participated in on-call duties to ensure high availability and performance.
 
 ### **Lunatech**  `May 2021 - May 2022`
