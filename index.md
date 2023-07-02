@@ -56,7 +56,7 @@ Eindhoven, The Netherlands
 **_Software Engineer_**
 
 - Developed a **Server-Side Ad Insertion** (SSAI) solution with **Python** and **Golang** to seamlessly stitch ads into **HLS** and **DASH** streams. Utilized AWS MediaTailor as a stitcher between Player and **CDN/Origin**, integrating with the Ad Decision Server to manipulate playlists and replace video and audio segments with ads. This significantly reduced ad blocking and increased ad revenue for content-creators.
-- Orchestrated the implementation of a low-latency live streaming solution using **Agile** methodologies, delivering almost instantaneous live streams upon initiation. Enhanced user experience by integrating Mux's live streaming services.
+- Orchestrated a data ingest service using Argo Workflow, streamlining image pre-processing and efficient allocation of machine learning tasks within the pipeline.
 - Led a transition to **OpenAI Whisper** as part of a prize-winning hack week project, resulting in significant cost reduction and improved Word Error Rate (WER) performance.
 - Set up robust system observability and monitoring using the **Datadog** dashboard and alerting system. Leveraged **Terraform** and **Python** to streamline microservice maintenance, automate infrastructure, and establish a **CI/CD** pipeline with **Buildkite**.
 - Focused on customer-centric solutions by working closely with the customer support team to resolve issues and increase service uptime. Actively participated in on-call duties to ensure high availability and performance.
@@ -69,9 +69,10 @@ Rotterdam, The Netherlands
 
 **_Junior Software Engineer_**
 
-- Enhanced features and user experience of the Autonomous Driving Labeling System using **Scala**, **Scala.js**, **Akka**, **Elasticsearch**, and **Elastic4s** to stream video data and produce ground truth labels.
-- Migrated infrastructure to **Azure Kubernetes Service**, implementing automation deployment pipelines, network policies, private endpoints, and monitoring metrics.
-- Initiated a data ingest service with **Argo Workflow** to allocate machine learning jobs in the pipeline.
+- Enhanced features and user experience of the autonomous driving image label management system using **Scala**, **Scala.js**, **Akka**, **Elasticsearch**, and **Elastic4s** to stream video label data and produce ground truth labels.
+- Migrated infrastructure to **Azure Devops**, implementing automation deployment pipelines, network policies, private endpoints, and monitoring metrics.
+- Initiated a data ingest service with **Argo Workflow** to implement image pre-processing and allocate machine learning jobs in the pipeline. 
+- Actively participated in Agile and Scrum methodologies, adapting to rapid iterations, effectively managing tasks, and fostering team collaboration to meet team milestones.
 
 ### **University College Dublin**  `Sep 2020 - Dec 2020`
 
@@ -115,11 +116,11 @@ Hsinchu, Taiwan
 ### **Dublin Bus Journey Time Predictor**  | Graduate Project `Jun 2020 – Aug 2020`
 
 - Launched a **RESTful** web application with **Python** **Django** and Machine Learning, predicting bus journey times based on a variety of factors, showcasing a fusion of data analysis and web development.
-- Applied **EDA** for data analysis and deployed the application on **Heroku** using **Docker** containers, highlighting skills in handling complex data sets and cloud deployment.
+- Applied data analysis and deployed the application on **Heroku** using **Docker** containers, highlighting skills in handling complex data sets and cloud deployment.
 
 ### **Bike Station Availability Predictor** | Team Project `Feb 2020 – Apr 2020`
 
-- Spearheaded the development of a **RESTful** Web App using **Python** **Flask**, integrating machine learning to predict hourly bike station availability, underscoring an intersection of web development and ML.
+- Led the development of a **RESTful** Web App using **Python** **Flask**, integrating machine learning to predict hourly bike station availability, underscoring an intersection of web development and **machine learning**.
 - Coordinated the project using **Agile** methodologies within a **Scrum** team and managed tasks with **Jira**, reflecting an understanding of effective team dynamics and project management.
 
 ## EDUCATION
