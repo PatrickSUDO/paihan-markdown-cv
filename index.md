@@ -30,6 +30,13 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
+## PERSONAL SUMMARY
+
+- **Experienced Engineer** specializing in **High-Performance Distributed Systems** in media and autonomous driving. 
+- **Problem Solver**: Expertise in low-latency streaming with ad insertion and customer issue resolution.
+- **Independent & Team Player**: Adept at steering projects from inception to deployment, and experienced in Agile and Scrum.
+
+
 ## SKILLS
 
 Programming Languages: Python, Golang, Scala, Java, Terraform, Bash, JavaScript, SQL
