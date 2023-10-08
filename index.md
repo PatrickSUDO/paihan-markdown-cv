@@ -82,6 +82,7 @@ Rotterdam, The Netherlands
 - **Achievements**:
   - Achieved comprehensive test coverage by writing unit tests for cache, API client, and main service logic.
   - Utilized in-memory cache with timeout management.
+  
 ### **Dublin Bus Journey Time Predictor** | Python, Django, Machine Learning, Docker, Heroku
 - **Challenge**: Predicting bus journey times based on multiple variable factors in a user-friendly way.
 - **Solution**: Developed a **RESTful** web application in **Python** using **Django**, with **Machine Learning** models for predictions.
