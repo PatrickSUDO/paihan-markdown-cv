@@ -65,7 +65,7 @@ Rotterdam, The Netherlands
 - Enhanced Autonomous Driving Labeling System with **Scala**, **Scala.js**, and **Akka**. Used **Elasticsearch** for data streaming.
 - Led the transition to **Azure DevOps**, automating deployment pipelines, implementing network policies and enhancing system monitoring.
 - Drove **Agile** and **Scrum** practices to meet key team milestones.
-- Orchestrated a data ingestion pipeline using **Argo Workflow**, improving data preprocessing and task allocation for machine learning models.
+- Orchestrated a data ingestion pipeline using **Argo Workflow**, improving data preprocessing and task allocation for **machine learning** models.
 
 ## SIDE PROJECTS
 
@@ -73,22 +73,21 @@ Rotterdam, The Netherlands
 - **Challenge**: Creating a reliable and fast service to calculate distances between UK postal codes.
 - **Solution**: Developed a **RESTful** service using **Java** and **Spring Boot**, storing postal code data in **PostgreSQL**.
 - **Achievements**:
-  - Implemented unit tests with Mockito and JUnit to ensure application reliability.
-  - Implemented data mapping and regular updates to keep the postal code database current.
+  - Implemented unit tests with **Mockito** and **JUnit** to ensure application reliability.
+  - Established data mapping and regular updates to keep the postal code database current.
 
 ### **BookList** | Scala, Finagle, Caffeine
 - **Challenge**: Needed an efficient way to fetch and display books by author and optional year while maintaining fast response times.
 - **Solution**: Developed a **RESTful** service in **Scala** using **Finagle**, and incorporated in-memory caching with **Caffeine**.
 - **Achievements**:
   - Achieved comprehensive test coverage by writing unit tests for cache, API client, and main service logic.
-  - Utilized environment variables for secure and flexible API key and cache timeout management.
-
+  - Utilized in-memory cache with timeout management.
 ### **Dublin Bus Journey Time Predictor** | Python, Django, Machine Learning, Docker, Heroku
 - **Challenge**: Predicting bus journey times based on multiple variable factors in a user-friendly way.
 - **Solution**: Developed a **RESTful** web application in **Python** using **Django**, with **Machine Learning** models for predictions.
 - **Achievements**:
-  - Applied exploratory data analysis techniques to fine-tune the **Machine Learning** model.
-  - Successfully deployed the application on Heroku using **Docker**, managing both data sets and cloud-based hosting.
+  - Applied exploratory data analysis techniques to fine-tune the tree-based **Machine Learning** model.
+  - Successfully deployed the application on **Heroku** using **Docker**, managing both data sets and cloud-based hosting.
 
 ## EDUCATION
 
