@@ -215,7 +215,7 @@ li {
   /*second line indent*/
   padding-left: 1em;
   text-indent: -0.5em;
-  line-height: 1.25
+  line-height: 1.25; /* Adjust this value to make the line height smaller */
   /*color: #777;*/
 }
 
