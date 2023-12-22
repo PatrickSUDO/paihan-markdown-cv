@@ -50,10 +50,10 @@ Eindhoven, The Netherlands
 
 **_Software Engineer_**
 
-- Developed a **Server-Side Ad Insertion** (SSAI) solution with **Python**, **Golang**, **CDN** to seamlessly stitch ads into **HLS**, **DASH** streams from scratch to production. This initiative led to generating 1.2 billion ad impressions year to date, with above 80% view rate, handling thousands of requests per second, significantly reducing ad blocking and increasing ad revenue for content-creators.
+- Developed a **Server-Side Ad Insertion** (SSAI) solution with **Python**, **Golang**, **CDN** to seamlessly stitch ads into **HLS**, **DASH** streams from scratch to production. This initiative led to generating **1.2 billion ad impressions** year to date, with above 80% view rate, handling thousands of requests per second, significantly reducing ad blocking and increasing ad revenue for content-creators.
 - Orchestrated system observability using **Datadog**, and automated **CI/CD** pipelines with **Terraform** and **Buildkite**. Enhanced the infrastructure to support the full software development cycle, from Proof of Concept to production, ensuring high availability and performance.
 - Built a **Go**-based tracking API to provide in-depth metrics including ad impressions and duration. Data exported for analysis in **Snowflake** via **Airflow**, contributing to strategic data-driven decisions and further optimization of ad performance.
-- Focused on customer-centric solutions by working closely with the customer support team to resolve issues and increase service uptime. Actively participated in on-call duties and employed Agile methodologies to ensure continuous delivery and quality of service, maintaining system robustness and user satisfaction.
+- Focused on customer-centric solutions by working closely with the customer support team to resolve issues and increase service uptime. Actively participated in on-call duties to ensure continuous delivery and quality of service, maintaining system robustness and user satisfaction.
 
 ### **Lunatech**  `May 2021 - May 2022`
 
