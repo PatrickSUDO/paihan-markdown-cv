@@ -31,8 +31,8 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-
 ## SKILLS
+
 - Programming Languages: Java, Scala, Go, Python, JavaScript
 - Frameworks: Spring Boot (Java), Akka (Scala), Django (Python), FastAPI (Python), RabbitMQ
 - Cloud Computing: AWS, Azure, Kubernetes, Docker
@@ -70,14 +70,17 @@ Rotterdam, The Netherlands
 
 ## SIDE PROJECTS
 
-### **British Postal Code Distance Calculator** | Spring Boot, PostgreSQL, Mockito, JUnit
-- **Challenge**: Creating a reliable and fast service to calculate distances between UK postal codes.
-- **Solution**: Developed a **RESTful** service using **Java** and **Spring Boot**, storing postal code data in **PostgreSQL**.
+### **PaiWallet** | Java, Spring Boot, Spring Cloud, MongoDB, JUnit, Mockito, Redis
+
+- **Challenge**: Creating a secure and efficient digital wallet platform to manage virtual currency, transactions, and user interactions with high availability and scalability.
+- **Solution**: Developed a comprehensive digital wallet platform using a **microservices architecture** with **Java**, **Spring Boot**, and **Spring Cloud**. Integrated **Spring Data MongoDB** for ORM and data access, **Redis** for caching, **MongoDB** for data storage. Implemented **Hmily** for distributed transaction management, and **ShardingSphere** for database sharding.
 - **Achievements**:
-  - Implemented unit tests with **Mockito** and **JUnit** to ensure application reliability.
-  - Established data mapping and regular updates to keep the postal code database current.
+  - Designed and implemented microservices for user authentication, wallet management, P2P transfers, bill payments, and notifications.
+  - Achieved fault tolerance and service discovery using **Spring Cloud Netflix** (Eureka and Hystrix).
+  - Enhanced performance and scalability through efficient caching mechanisms with **Redis**, and ensured data consistency in distributed environments with **Hmily**.
 
 ### **BookList** | Scala, Finagle, Caffeine
+
 - **Challenge**: Needed an efficient way to fetch and display books by author and optional year while maintaining fast response times.
 - **Solution**: Developed a **RESTful** service in **Scala** using **Finagle**, and incorporated in-memory caching with **Caffeine**.
 - **Achievements**:
@@ -85,6 +88,7 @@ Rotterdam, The Netherlands
   - Utilized in-memory cache with timeout management.
   
 ### **Dublin Bus Journey Time Predictor** | Python, Django, Machine Learning, Docker, Heroku
+
 - **Challenge**: Predicting bus journey times based on multiple variable factors in a user-friendly way.
 - **Solution**: Developed a **RESTful** web application in **Python** using **Django**, with **Machine Learning** models for predictions.
 - **Achievements**:
@@ -94,23 +98,28 @@ Rotterdam, The Netherlands
 ## EDUCATION
 
 ### **University College Dublin** `Sep 2019 - Dec 2020`
+
 ```
 Dublin, Ireland
 ```
+
 **_M.S. Computer Science_**
 
 ### **National Taiwan University**   `Sep 2013 - Sep 2015`
+
 ```
 Taipei, Taiwan
 ```
+
 **_M.S. Materials Science and Engineering_**
 
 ### **National Taiwan University**   `Sep 2009 - Jun 2013`
+
 ```
 Taipei, Taiwan
 ```
-**_B.S. Chemical Engineering_**
 
+**_B.S. Chemical Engineering_**
 
 <!-- ### Footer
 
