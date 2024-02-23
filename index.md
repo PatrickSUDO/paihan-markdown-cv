@@ -19,7 +19,7 @@ address:
 ---
 
 
-# Pai-Han **Su** <img src="https://media.licdn.com/dms/image/D4E03AQGT5x85guxcfA/profile-displayphoto-shrink_800_800/0/1702080694052?e=1707350400&amp;v=beta&amp;t=rLyOLaDqSWMgwy6F2N_x_0yzJu_fHgkOf9h7mSaOMdU" alt="profile" width="100"/>
+# Pai-Han **Su** <img src="https://media.licdn.com/dms/image/D4E03AQGT5x85guxcfA/profile-displayphoto-shrink_800_800/0/1702080694052?e=1714003200&v=beta&t=1WywKhCPgbOcU3lee9TbAOK5_BskNkaj3KgvAAGyMeo" alt="profile" width="100"/>
 
 <!--
 include contact information from the front matter
