@@ -39,7 +39,7 @@ Supported arguments:
 - Data Stores: PostgreSQL, Elasticsearch, Redis, Snowflake
 - DevOps: Terraform, CI/CD (GitHub, Jenkins), Monitoring (Datadog, Prometheus, Grafana)
 
-## EXPERIENCE
+## WORK EXPERIENCE
 
 ### **JW Player**  `May 2022 - Now`
 
@@ -67,7 +67,7 @@ Rotterdam, The Netherlands
 - Drove **Agile** and **Scrum** practices to meet key team milestones.
 - Orchestrated a data ingestion pipeline using **Argo Workflow**, improving data preprocessing and task allocation for **machine learning** models.
 
-## SIDE PROJECTS
+## PROJECTS EXPERIENCE
 
 ### **PaiWallet** | Java, Spring Boot, Spring Cloud, MongoDB, JUnit, Mockito, Redis
 
