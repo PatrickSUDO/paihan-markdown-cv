@@ -34,10 +34,10 @@ Supported arguments:
 ## SKILLS
 
 - Programming Languages: Java, Go, Scala, Python
-- Frameworks: Spring Boot, Akka, Django, FastAPI, RabbitMQ
+- Frameworks: Spring Boot, Akka, RabbitMQ
 - Cloud Computing: AWS, Azure, Kubernetes, Docker
-- Data Stores: PostgreSQL, Elasticsearch, Redis, Snowflake
-- DevOps: Terraform, CI/CD (GitHub, Jenkins), Monitoring (Datadog, Prometheus, Grafana)
+- Data Stores: PostgreSQL, Elasticsearch, Redis
+- DevOps: Terraform, CI/CD(Buildkite), Monitoring(Observability)
 
 ## WORK EXPERIENCE
 
