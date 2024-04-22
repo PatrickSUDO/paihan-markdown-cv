@@ -15,6 +15,8 @@ linkedin:
   text: www.linkedin.com/in/ph-su/
 address:
   text: Rotterdam, Netherlands
+phone:
+  text: +31657256350
 
 ---
 
@@ -64,7 +66,7 @@ Rotterdam, The Netherlands
 
 - Enhanced Autonomous Driving Labeling System with **Scala**, **Java**, **Scala.js**, and **Akka**. Used **Elasticsearch** for data streaming.
 - Led the transition to **Azure DevOps**, automating deployment pipelines, implementing network policies and enhancing system monitoring.
-- Drove **Agile** and **Scrum** practices to meet key team milestones.
+- Implemented Agile and Scrum methodologies to enhance team productivity, successfully meeting all key milestones ahead of schedule and improving project delivery.
 - Orchestrated a data ingestion pipeline using **Argo Workflow**, improving data preprocessing and task allocation for **machine learning** models.
 
 ## PROJECTS EXPERIENCE
