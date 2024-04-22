@@ -15,7 +15,7 @@ linkedin:
   text: www.linkedin.com/in/ph-su/
 address:
   text: Rotterdam, Netherlands
-phone: \+31657256350
+phone: "+31657256350"
 ---
 
 
