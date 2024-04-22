@@ -16,7 +16,7 @@ linkedin:
 address:
   text: Rotterdam, Netherlands
 phone:
-  text: +31657256350
+  text: "+31657256350"
 
 ---
 
@@ -65,8 +65,8 @@ Rotterdam, The Netherlands
 **_Junior Software Engineer_**
 
 - Enhanced Autonomous Driving Labeling System with **Scala**, **Java**, **Scala.js**, and **Akka**. Used **Elasticsearch** for data streaming.
-- Led the transition to **Azure DevOps**, automating deployment pipelines, implementing network policies and enhancing system monitoring.
-- Implemented Agile and Scrum methodologies to enhance team productivity, successfully meeting all key milestones ahead of schedule and improving project delivery.
+- Spearheaded the adoption of **Azure DevOps**, automating deployment pipelines, enhancing system monitoring for faster issue resolution, and enforcing network policies to support security compliance.
+- Implemented **Agile** and **Scrum** methodologies to enhance team productivity, successfully meeting all key milestones ahead of schedule and improving project delivery.
 - Orchestrated a data ingestion pipeline using **Argo Workflow**, improving data preprocessing and task allocation for **machine learning** models.
 
 ## PROJECTS EXPERIENCE
