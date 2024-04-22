@@ -16,7 +16,7 @@ linkedin:
 address:
   text: Rotterdam, Netherlands
 phone:
-  text: 0657266350
+  text: '0657266350'
 ---
 
 
