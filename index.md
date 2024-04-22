@@ -15,7 +15,7 @@ linkedin:
   text: www.linkedin.com/in/ph-su/
 address:
   text: Rotterdam, Netherlands
-phone:
+telephone:
   text: Rotterdam, Netherlands
 ---
 
