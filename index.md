@@ -16,7 +16,7 @@ linkedin:
 address:
   text: Rotterdam, Netherlands
 phone:
-  text: 'x0657256350'
+  text: Rotterdam, Netherlands
 ---
 
 
