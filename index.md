@@ -16,8 +16,7 @@ linkedin:
 address:
   text: Rotterdam, Netherlands
 phone:
-  text: \+31657256350
-
+  text: 0657266350
 ---
 
 
