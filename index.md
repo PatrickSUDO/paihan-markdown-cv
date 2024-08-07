@@ -15,7 +15,7 @@ linkedin:
   text: www.linkedin.com/in/ph-su/
 address:
   text: Rotterdam, Netherlands
-
+phone: "+31657256350"
 ---
 
 
@@ -33,11 +33,11 @@ Supported arguments:
 
 ## SKILLS
 
-- Programming Languages: Java, Go, Scala, Python
-- Frameworks: Spring Boot, Akka, Django, FastAPI, RabbitMQ
+- Programming Languages: Java, Go, Python
+- Frameworks: Spring Boot, Akka, RabbitMQ
 - Cloud Computing: AWS, Azure, Kubernetes, Docker
-- Data Stores: PostgreSQL, Elasticsearch, Redis, Snowflake
-- DevOps: Terraform, CI/CD (GitHub, Jenkins), Monitoring (Datadog, Prometheus, Grafana)
+- Data Stores: PostgreSQL, Redis
+- DevOps: Terraform, CI/CD(Buildkite), Datadog(Observability)
 
 ## WORK EXPERIENCE
 
@@ -49,8 +49,8 @@ Eindhoven, The Netherlands
 
 **_Software Engineer_**
 
-- Developed a **Server-Side Ad Insertion** (SSAI) solution with **Python**, **Golang**, **CDN** to seamlessly stitch ads into **HLS**, **DASH** streams from scratch to production. This initiative led to generating **1.2 billion ad impressions** year to date, with above 80% view rate, handling thousands of requests per second, significantly reducing ad blocking and increasing ad revenue for content-creators.
-- Orchestrated system observability using **AWS CloudWatch** and **Datadog**, and automated **CI/CD** pipelines with **Terraform** and **Buildkite**. Enhanced the infrastructure on **AWS** to support the full software development cycle, from Proof of Concept to production, ensuring high availability and performance.
+- In a collaborative team of five, developed a **Server-Side Ad Insertion** (SSAI) solution with **Python**, **Golang**, **CDN** to seamlessly stitch ads into **HLS**, **DASH** streams from scratch to production. This initiative led to generating **1.2 billion ad impressions** year to date, with above 80% view rate, handling over **200K** requests per second, significantly reducing ad blocking and increasing ad revenue for content-creators.
+- Orchestrated system observability using **AWS CloudWatch** and **Datadog**, and automated **CI/CD** pipelines with **Terraform** and **Buildkite**. Enhanced the **AWS** infrastructure to support the full software development cycle, from Proof of Concept to production, ensuring high availability and performance.
 - Built a **Go**-based tracking API to provide in-depth metrics including ad impressions and duration. Data exported for analysis in **Snowflake** via **Airflow**, contributing to strategic data-driven decisions and further optimization of ad performance.
 - Focused on customer-centric solutions by working closely with the customer support team to resolve issues and increase service uptime. Actively participated in on-call duties to ensure continuous delivery and quality of service, maintaining system robustness and user satisfaction.
 
@@ -63,36 +63,34 @@ Rotterdam, The Netherlands
 **_Junior Software Engineer_**
 
 - Enhanced Autonomous Driving Labeling System with **Scala**, **Java**, **Scala.js**, and **Akka**. Used **Elasticsearch** for data streaming.
-- Led the transition to **Azure DevOps**, automating deployment pipelines, implementing network policies and enhancing system monitoring.
-- Drove **Agile** and **Scrum** practices to meet key team milestones.
+- Spearheaded the adoption of **Azure DevOps**, automating deployment pipelines, enhancing system monitoring for faster issue resolution, and enforcing network policies to support security compliance.
+- Implemented **Agile** and **Scrum** methodologies, including daily stand-ups, sprint planning, story refinement, and retrospectives, significantly enhancing team productivity and project delivery.
 - Orchestrated a data ingestion pipeline using **Argo Workflow**, improving data preprocessing and task allocation for **machine learning** models.
 
 ## PROJECTS EXPERIENCE
+ 
+### **PaiWallet** | Java, Spring Boot, Spring Cloud, Eureka, MongoDB, JUnit, Mockito, Redis `Feb 2024 - Now`
 
-### **PaiWallet** | Java, Spring Boot, Spring Cloud, MongoDB, JUnit, Mockito, Redis
-
-- **Challenge**: Creating a secure and efficient digital wallet platform to manage virtual currency, transactions, and user interactions with high availability and scalability.
-- **Solution**: Developed a comprehensive digital wallet platform using a **microservices architecture** with **Java**, **Spring Boot**, and **Spring Cloud**. Integrated **Spring Data MongoDB** for ORM and data access, **Redis** for caching, **MongoDB** for data storage. Implemented **Hmily** for distributed transaction management, and **ShardingSphere** for database sharding.
+- **Challenge**: Creating a secure and robust digital wallet platform capable of managing virtual currency and handling high-concurrency transactions, while ensuring scalability.
+- **Solution**: Developed a digital wallet using **microservices** architecture with **Java** technologies, achieving robust transaction handling and service reliability.
 - **Achievements**:
-  - Designed and implemented microservices for user authentication, wallet management, P2P transfers, bill payments, and notifications.
-  - Achieved fault tolerance and service discovery using **Spring Cloud Netflix** (Eureka and Hystrix).
-  - Enhanced performance and scalability through efficient caching mechanisms with **Redis**, and ensured data consistency in distributed environments with **Hmily**.
+  - Architected services including **JWT** user authentication, wallet management, P2P transfers, bill payments, and notifications, enabling the system to efficiently manage up to **10K** transactions per second, thereby enhancing transaction capacity and system responsiveness.
 
-### **BookList** | Scala, Finagle, Caffeine
+### **BookList** | Scala, Finagle, Caffeine `May 2023 - Jun 2023`
 
-- **Challenge**: Needed an efficient way to fetch and display books by author and optional year while maintaining fast response times.
+- **Challenge**: Ensured **sub-100ms** response times for fetching and displaying book data across various filters.
 - **Solution**: Developed a **RESTful** service in **Scala** using **Finagle**, and incorporated in-memory caching with **Caffeine**.
 - **Achievements**:
-  - Achieved comprehensive test coverage by writing unit tests for cache, API client, and main service logic.
-  - Utilized in-memory cache with timeout management.
-  
-### **Dublin Bus Journey Time Predictor** | Python, Django, Machine Learning, Docker, Heroku
+  - Enhanced data retrieval efficiency and reduced server response times by about 35%% through optimized caching strategies.
+  - Achieved 95% test coverage, demonstrating thorough validation and reliability of service components.
 
-- **Challenge**: Predicting bus journey times based on multiple variable factors in a user-friendly way.
-- **Solution**: Developed a **RESTful** web application in **Python** using **Django**, with **Machine Learning** models for predictions.
+### **Dublin Bus Journey Time Predictor** | Python, Django, Machine Learning, Docker, Heroku `Jul 2020 - Aug 2020`
+
+- **Challenge**: Developed a machine learning model to predict bus journey times with a mean absolute percentage error(MAPE) of approximately **5%**.
+- **Solution**: Implemented a user-friendly **RESTful** web application in **Python** using **Django**, integrating **Light Gradient Boost Model(LGBM)** models for accurate predictions.
 - **Achievements**:
-  - Applied exploratory data analysis techniques to fine-tune the tree-based **Machine Learning** model.
-  - Successfully deployed the application on **Heroku** using **Docker**, managing both data sets and cloud-based hosting.
+  - Deployed the application using **Docker** on **Heroku**, ensuring efficient cloud-based data management and application hosting.
+  - Accurately predicted bus journey times by incorporating real-time bus schedules and weather data into the analysis.
 
 ## EDUCATION
 
